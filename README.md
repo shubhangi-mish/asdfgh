@@ -6,7 +6,7 @@ national wind data from Elexon BMRS only:
 1. **What is the latest wind forecast I can actually use when I bid in the day-ahead auction?**
 2. **How accurate are those forecasts, so I can plan around the error?**
 
-**Live app:** _<add Vercel URL here>_
+**Live app:** https://asdfgh-beta.vercel.app
 
 > **AI disclosure:** this project was built with the help of an AI coding assistant (Claude Code). I reviewed
 > the code and the analysis choices described below.
